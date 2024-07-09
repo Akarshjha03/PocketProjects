@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PocketProjects
 
 This repository contains a collection of small projects built with HTML, CSS, and JavaScript. These projects are designed to demonstrate core web development concepts and provide hands-on examples for learning and exploration.
@@ -29,3 +30,44 @@ Each project is contained within its own directory. Open the index.html file in 
 
 ## Contributing
 Feel free to contribute by submitting issues or pull requests. Any improvements or additional features are welcome!
+=======
+# PocketProjects
+
+This repository contains a collection of small projects built with HTML, CSS, and JavaScript. These projects are designed to demonstrate core web development concepts and provide hands-on examples for learning and exploration.
+
+## Technology Used:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+  </a>
+</p>
+
+## Projects
+
+1. **Calculator**: A simple calculator for basic arithmetic operations.
+2. **Web App**: A versatile web application showcasing dynamic content and user interaction.
+3. **Music Player**: A dynamic music player with playlist functionality.
+
+## Getting Started
+
+To explore these projects:
+
+1. Clone the repository: 
+```bash
+   git clone https://github.com/your-username/your-repo-name.git
+```
+
+2. Navigate to the project directory:
+```bash
+cd PocketProjects
+```
+
+3. Open the project files in your favorite code editor.
+
+### Usage
+Each project is contained within its own directory. Open the index.html file in your web browser to see the project in action.
+
+## Contributing
+Feel free to contribute by submitting issues or pull requests. Any improvements or additional features are welcome!
+>>>>>>> a91c9148f3734c89eeca3c273e2cca7deeb5c753
