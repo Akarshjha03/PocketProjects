@@ -13,8 +13,9 @@ This repository contains a collection of small projects built with HTML, CSS, an
 ## Projects
 
 1. **Calculator**: A simple calculator for basic arithmetic operations.
-2. **Web App**: A versatile web application showcasing dynamic content and user interaction.
+2. **Weather App**: A versatile weather application showcasing dynamic content and user interaction.
 3. **Music Player**: A dynamic music player with playlist functionality.
+4. **Rock, Paper, Scissors**: Building a Rock, Paper, Scissors game.
 
 ## Getting Started
 
