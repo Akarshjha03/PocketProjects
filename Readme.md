@@ -1,6 +1,6 @@
 # PocketProjects
 
-This repository contains a collections of small projects built with HTML, CSS, and JavaScript. These projects are designed to demonstrate core web development concepts and provide hands-on examples for learning and exploration.
+This repository contains a collection of small projects built with HTML, CSS, and JavaScript. These projects are designed to demonstrate core web development concepts and provide hands-on examples for learning and exploration.
 
 ## Technology Used:
 
